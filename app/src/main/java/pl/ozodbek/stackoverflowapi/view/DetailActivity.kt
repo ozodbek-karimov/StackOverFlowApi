@@ -6,14 +6,13 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import androidx.activity.viewModels
-import androidx.lifecycle.Observer
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import androidx.recyclerview.widget.RecyclerView.OnScrollListener
 import pl.ozodbek.stackoverflowapi.model.Question
 import pl.ozodbek.stackoverflowapi.model.convertTitle
 import pl.ozodbek.stackoverflowapi.model.getDate
-import com.devtides.stackoverflowquery.viewmodel.DetailViewModel
+import pl.ozodbek.stackoverflowapi.viewmodel.DetailViewModel
 import pl.ozodbek.stackoverflowapi.databinding.ActivityDeatilBinding
 import pl.ozodbek.stackoverflowapi.util.oneliner_viewbinding.viewBinding
 

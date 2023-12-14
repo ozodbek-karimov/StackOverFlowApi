@@ -6,7 +6,7 @@ import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.devtides.stackoverflowquery.viewmodel.QuestionsViewModel
+import pl.ozodbek.stackoverflowapi.viewmodel.QuestionsViewModel
 import pl.ozodbek.stackoverflowapi.util.oneliner_viewbinding.viewBinding
 import pl.ozodbek.stackoverflowapi.databinding.ActivityMainBinding
 

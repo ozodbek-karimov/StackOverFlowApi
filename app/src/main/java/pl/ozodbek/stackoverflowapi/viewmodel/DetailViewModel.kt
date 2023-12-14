@@ -1,4 +1,4 @@
-package com.devtides.stackoverflowquery.viewmodel
+package pl.ozodbek.stackoverflowapi.viewmodel
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
